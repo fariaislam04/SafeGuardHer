@@ -1,16 +1,9 @@
-# safeguardhersdp
+# SafeGuardHer
 
-A women Safety App.
+A Women Safety App.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This repository will contain the code for our women safety mobile application. The app aims to empower women and enhance their sense of security in various situations. It will include features such as emergency alerts, location sharing, safety tips, and a community support network.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
