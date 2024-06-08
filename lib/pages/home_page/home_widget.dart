@@ -3,8 +3,6 @@ import 'package:flutterflow_ui/flutterflow_ui.dart';
 import 'package:badges/badges.dart' as badges;
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:google_fonts/google_fonts.dart';
-import 'package:provider/provider.dart';
 
 import 'home_model.dart';
 export 'home_model.dart';
@@ -49,7 +47,7 @@ class _HomeWidgetState extends State<HomeWidget> {
           child: AppBar(
             backgroundColor: Colors.white,
             automaticallyImplyLeading: true,
-            actions: [],
+            actions: const [],
             flexibleSpace: FlexibleSpaceBar(
               title: Align(
                 alignment: const AlignmentDirectional(-1, 0.7),
